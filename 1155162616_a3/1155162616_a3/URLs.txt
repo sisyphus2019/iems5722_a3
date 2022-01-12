@@ -1,0 +1,18 @@
+1.http://34.96.148.39/api/a3/get_chatrooms/
+For retrieving a list of chatrooms from the server
+
+2.http://34.96.148.39/api/a3/get_messages/
+For retrieving a list of messages in a specific chatroom
+
+3.http://34.96.148.39/api/a3/send_message/
+For sending a message in a specific chatroom
+
+
+
+In My Assignment2 project,the URLs is in the /app/src/res//values/strings.xml folder
+like:
+    <string name="get_chatroomsAPI">http://34.96.148.39/api/a3/get_chatrooms/</string>
+    <string name="get_messagesAPI">http://34.96.148.39/api/a3/get_messages/</string>
+    <string name="send_messageAPI">http://34.96.148.39/api/a3/send_message/</string>
+
+please to add the '/' in the end of every URL,thanks a lot. 

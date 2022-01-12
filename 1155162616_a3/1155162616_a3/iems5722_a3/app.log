@@ -1,0 +1,415 @@
+[2021-11-11 03:40:11 +0000] [6170] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 03:40:11 +0000] [6170] [INFO] Listening at: http://127.0.0.1:8000 (6170)
+[2021-11-11 03:40:11 +0000] [6170] [INFO] Using worker: sync
+[2021-11-11 03:40:11 +0000] [6173] [INFO] Booting worker with pid: 6173
+[2021-11-11 03:40:11 +0000] [6174] [INFO] Booting worker with pid: 6174
+[2021-11-11 03:40:12 +0000] [6175] [INFO] Booting worker with pid: 6175
+[2021-11-11 03:40:12 +0000] [6176] [INFO] Booting worker with pid: 6176
+[2021-11-11 03:44:19 +0000] [6170] [INFO] Handling signal: term
+[2021-11-11 03:44:19 +0000] [6174] [INFO] Worker exiting (pid: 6174)
+[2021-11-11 03:44:19 +0000] [6173] [INFO] Worker exiting (pid: 6173)
+[2021-11-11 03:44:19 +0000] [6175] [INFO] Worker exiting (pid: 6175)
+[2021-11-11 03:44:19 +0000] [6176] [INFO] Worker exiting (pid: 6176)
+[2021-11-11 03:44:20 +0000] [6170] [INFO] Shutting down: Master
+[2021-11-11 03:45:04 +0000] [9436] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 03:45:04 +0000] [9436] [INFO] Listening at: http://0.0.0.0:8000 (9436)
+[2021-11-11 03:45:04 +0000] [9436] [INFO] Using worker: sync
+[2021-11-11 03:45:04 +0000] [9439] [INFO] Booting worker with pid: 9439
+[2021-11-11 03:45:04 +0000] [9440] [INFO] Booting worker with pid: 9440
+[2021-11-11 03:45:04 +0000] [9441] [INFO] Booting worker with pid: 9441
+[2021-11-11 03:45:04 +0000] [9444] [INFO] Booting worker with pid: 9444
+[2021-11-11 03:53:05 +0000] [9436] [INFO] Handling signal: term
+[2021-11-11 03:53:05 +0000] [9439] [INFO] Worker exiting (pid: 9439)
+[2021-11-11 03:53:05 +0000] [9440] [INFO] Worker exiting (pid: 9440)
+[2021-11-11 03:53:05 +0000] [9444] [INFO] Worker exiting (pid: 9444)
+[2021-11-11 03:53:05 +0000] [9441] [INFO] Worker exiting (pid: 9441)
+[2021-11-11 03:53:05 +0000] [9436] [INFO] Shutting down: Master
+[2021-11-11 03:53:07 +0000] [14691] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 03:53:07 +0000] [14691] [INFO] Listening at: http://0.0.0.0:8000 (14691)
+[2021-11-11 03:53:07 +0000] [14691] [INFO] Using worker: sync
+[2021-11-11 03:53:07 +0000] [14704] [INFO] Booting worker with pid: 14704
+[2021-11-11 03:53:07 +0000] [14705] [INFO] Booting worker with pid: 14705
+[2021-11-11 03:53:07 +0000] [14706] [INFO] Booting worker with pid: 14706
+[2021-11-11 03:53:07 +0000] [14707] [INFO] Booting worker with pid: 14707
+[2021-11-11 04:03:22 +0000] [14691] [INFO] Handling signal: term
+[2021-11-11 04:03:22 +0000] [14705] [INFO] Worker exiting (pid: 14705)
+[2021-11-11 04:03:22 +0000] [14704] [INFO] Worker exiting (pid: 14704)
+[2021-11-11 04:03:22 +0000] [14706] [INFO] Worker exiting (pid: 14706)
+[2021-11-11 04:03:22 +0000] [14707] [INFO] Worker exiting (pid: 14707)
+[2021-11-11 04:03:22 +0000] [14691] [INFO] Shutting down: Master
+[2021-11-11 04:03:24 +0000] [21427] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 04:03:24 +0000] [21427] [INFO] Listening at: http://0.0.0.0:8000 (21427)
+[2021-11-11 04:03:24 +0000] [21427] [INFO] Using worker: sync
+[2021-11-11 04:03:24 +0000] [21440] [INFO] Booting worker with pid: 21440
+[2021-11-11 04:03:24 +0000] [21441] [INFO] Booting worker with pid: 21441
+[2021-11-11 04:03:24 +0000] [21442] [INFO] Booting worker with pid: 21442
+[2021-11-11 04:03:24 +0000] [21443] [INFO] Booting worker with pid: 21443
+[2021-11-11 04:03:49 +0000] [21720] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 04:03:49 +0000] [21720] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2021-11-11 04:03:49 +0000] [21720] [ERROR] Retrying in 1 second.
+[2021-11-11 04:03:50 +0000] [21720] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2021-11-11 04:03:50 +0000] [21720] [ERROR] Retrying in 1 second.
+[2021-11-11 04:03:51 +0000] [21720] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2021-11-11 04:03:51 +0000] [21720] [ERROR] Retrying in 1 second.
+[2021-11-11 04:03:52 +0000] [21720] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2021-11-11 04:03:52 +0000] [21720] [ERROR] Retrying in 1 second.
+[2021-11-11 04:03:53 +0000] [21720] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2021-11-11 04:03:53 +0000] [21720] [ERROR] Retrying in 1 second.
+[2021-11-11 04:03:54 +0000] [21720] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2021-11-11 04:03:56 +0000] [21809] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 04:03:56 +0000] [21809] [INFO] Listening at: http://0.0.0.0:8000 (21809)
+[2021-11-11 04:03:56 +0000] [21809] [INFO] Using worker: sync
+[2021-11-11 04:03:56 +0000] [21812] [INFO] Booting worker with pid: 21812
+[2021-11-11 04:03:56 +0000] [21813] [INFO] Booting worker with pid: 21813
+[2021-11-11 04:03:56 +0000] [21815] [INFO] Booting worker with pid: 21815
+[2021-11-11 04:03:57 +0000] [21816] [INFO] Booting worker with pid: 21816
+[2021-11-11 04:10:03 +0000] [21809] [INFO] Handling signal: term
+[2021-11-11 04:10:03 +0000] [21812] [INFO] Worker exiting (pid: 21812)
+[2021-11-11 04:10:03 +0000] [21816] [INFO] Worker exiting (pid: 21816)
+[2021-11-11 04:10:03 +0000] [21813] [INFO] Worker exiting (pid: 21813)
+[2021-11-11 04:10:03 +0000] [21815] [INFO] Worker exiting (pid: 21815)
+[2021-11-11 04:10:03 +0000] [21809] [INFO] Shutting down: Master
+[2021-11-11 04:10:04 +0000] [26154] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 04:10:04 +0000] [26154] [INFO] Listening at: http://0.0.0.0:8000 (26154)
+[2021-11-11 04:10:04 +0000] [26154] [INFO] Using worker: sync
+[2021-11-11 04:10:04 +0000] [26165] [INFO] Booting worker with pid: 26165
+[2021-11-11 04:10:04 +0000] [26166] [INFO] Booting worker with pid: 26166
+[2021-11-11 04:10:05 +0000] [26167] [INFO] Booting worker with pid: 26167
+[2021-11-11 04:10:05 +0000] [26168] [INFO] Booting worker with pid: 26168
+[2021-11-11 04:10:16 +0000] [26154] [INFO] Handling signal: term
+[2021-11-11 04:10:16 +0000] [26165] [INFO] Worker exiting (pid: 26165)
+[2021-11-11 04:10:16 +0000] [26166] [INFO] Worker exiting (pid: 26166)
+[2021-11-11 04:10:16 +0000] [26168] [INFO] Worker exiting (pid: 26168)
+[2021-11-11 04:10:16 +0000] [26167] [INFO] Worker exiting (pid: 26167)
+[2021-11-11 04:10:16 +0000] [26154] [INFO] Shutting down: Master
+[2021-11-11 04:33:30 +0000] [9831] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 04:33:30 +0000] [9831] [INFO] Listening at: http://0.0.0.0:8000 (9831)
+[2021-11-11 04:33:30 +0000] [9831] [INFO] Using worker: sync
+[2021-11-11 04:33:30 +0000] [9834] [INFO] Booting worker with pid: 9834
+[2021-11-11 04:33:30 +0000] [9835] [INFO] Booting worker with pid: 9835
+[2021-11-11 04:33:30 +0000] [9838] [INFO] Booting worker with pid: 9838
+[2021-11-11 04:33:30 +0000] [9843] [INFO] Booting worker with pid: 9843
+[2021-11-11 04:34:08 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:9834)
+[2021-11-11 04:34:08 +0000] [9834] [INFO] Worker exiting (pid: 9834)
+[2021-11-11 04:34:08 +0000] [10262] [INFO] Booting worker with pid: 10262
+[2021-11-11 04:36:10 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:9835)
+[2021-11-11 04:36:10 +0000] [9835] [INFO] Worker exiting (pid: 9835)
+[2021-11-11 04:36:10 +0000] [11617] [INFO] Booting worker with pid: 11617
+[2021-11-11 04:36:43 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:9838)
+[2021-11-11 04:36:43 +0000] [9838] [INFO] Worker exiting (pid: 9838)
+[2021-11-11 04:36:43 +0000] [11986] [INFO] Booting worker with pid: 11986
+[2021-11-11 04:38:02 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:11986)
+[2021-11-11 04:38:02 +0000] [11986] [INFO] Worker exiting (pid: 11986)
+[2021-11-11 04:38:02 +0000] [12879] [INFO] Booting worker with pid: 12879
+[2021-11-11 04:45:43 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:11617)
+[2021-11-11 04:45:43 +0000] [11617] [INFO] Worker exiting (pid: 11617)
+[2021-11-11 04:45:43 +0000] [17942] [INFO] Booting worker with pid: 17942
+[2021-11-11 04:47:16 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:17942)
+[2021-11-11 04:47:16 +0000] [17942] [INFO] Worker exiting (pid: 17942)
+[2021-11-11 04:47:16 +0000] [18974] [INFO] Booting worker with pid: 18974
+[2021-11-11 04:50:04 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:12879)
+[2021-11-11 04:50:04 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:18974)
+[2021-11-11 04:50:04 +0000] [12879] [INFO] Worker exiting (pid: 12879)
+[2021-11-11 04:50:04 +0000] [18974] [INFO] Worker exiting (pid: 18974)
+[2021-11-11 04:50:04 +0000] [9831] [WARNING] Worker with pid 12879 was terminated due to signal 9
+[2021-11-11 04:50:04 +0000] [20979] [INFO] Booting worker with pid: 20979
+[2021-11-11 04:50:04 +0000] [20980] [INFO] Booting worker with pid: 20980
+[2021-11-11 04:59:45 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:10262)
+[2021-11-11 04:59:45 +0000] [10262] [INFO] Worker exiting (pid: 10262)
+[2021-11-11 04:59:45 +0000] [27546] [INFO] Booting worker with pid: 27546
+[2021-11-11 05:01:26 +0000] [9831] [CRITICAL] WORKER TIMEOUT (pid:9843)
+[2021-11-11 05:01:26 +0000] [9843] [INFO] Worker exiting (pid: 9843)
+[2021-11-11 05:01:26 +0000] [28674] [INFO] Booting worker with pid: 28674
+[2021-11-11 05:01:43 +0000] [9831] [INFO] Handling signal: term
+[2021-11-11 05:01:43 +0000] [20979] [INFO] Worker exiting (pid: 20979)
+[2021-11-11 05:01:43 +0000] [20980] [INFO] Worker exiting (pid: 20980)
+[2021-11-11 05:01:43 +0000] [27546] [INFO] Worker exiting (pid: 27546)
+[2021-11-11 05:01:43 +0000] [28674] [INFO] Worker exiting (pid: 28674)
+[2021-11-11 05:01:43 +0000] [9831] [INFO] Shutting down: Master
+[2021-11-11 05:01:44 +0000] [28873] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:01:44 +0000] [28873] [INFO] Listening at: http://0.0.0.0:8000 (28873)
+[2021-11-11 05:01:44 +0000] [28873] [INFO] Using worker: sync
+[2021-11-11 05:01:44 +0000] [28876] [INFO] Booting worker with pid: 28876
+[2021-11-11 05:01:44 +0000] [28877] [INFO] Booting worker with pid: 28877
+[2021-11-11 05:01:45 +0000] [28878] [INFO] Booting worker with pid: 28878
+[2021-11-11 05:01:45 +0000] [28882] [INFO] Booting worker with pid: 28882
+[2021-11-11 05:01:54 +0000] [28873] [INFO] Handling signal: term
+[2021-11-11 05:01:54 +0000] [28877] [INFO] Worker exiting (pid: 28877)
+[2021-11-11 05:01:54 +0000] [28876] [INFO] Worker exiting (pid: 28876)
+[2021-11-11 05:01:54 +0000] [28882] [INFO] Worker exiting (pid: 28882)
+[2021-11-11 05:01:54 +0000] [28878] [INFO] Worker exiting (pid: 28878)
+[2021-11-11 05:01:54 +0000] [28873] [INFO] Shutting down: Master
+[2021-11-11 05:01:56 +0000] [29020] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:01:56 +0000] [29020] [INFO] Listening at: http://0.0.0.0:8000 (29020)
+[2021-11-11 05:01:56 +0000] [29020] [INFO] Using worker: sync
+[2021-11-11 05:01:56 +0000] [29031] [INFO] Booting worker with pid: 29031
+[2021-11-11 05:01:56 +0000] [29032] [INFO] Booting worker with pid: 29032
+[2021-11-11 05:01:56 +0000] [29033] [INFO] Booting worker with pid: 29033
+[2021-11-11 05:01:56 +0000] [29034] [INFO] Booting worker with pid: 29034
+[2021-11-11 05:02:07 +0000] [29020] [INFO] Handling signal: term
+[2021-11-11 05:02:07 +0000] [29032] [INFO] Worker exiting (pid: 29032)
+[2021-11-11 05:02:07 +0000] [29031] [INFO] Worker exiting (pid: 29031)
+[2021-11-11 05:02:07 +0000] [29033] [INFO] Worker exiting (pid: 29033)
+[2021-11-11 05:02:07 +0000] [29034] [INFO] Worker exiting (pid: 29034)
+[2021-11-11 05:02:08 +0000] [29020] [INFO] Shutting down: Master
+[2021-11-11 05:06:29 +0000] [32084] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:06:29 +0000] [32084] [INFO] Listening at: http://127.0.0.1:8000 (32084)
+[2021-11-11 05:06:29 +0000] [32084] [INFO] Using worker: sync
+[2021-11-11 05:06:29 +0000] [32087] [INFO] Booting worker with pid: 32087
+[2021-11-11 05:06:29 +0000] [32088] [INFO] Booting worker with pid: 32088
+[2021-11-11 05:06:29 +0000] [32089] [INFO] Booting worker with pid: 32089
+[2021-11-11 05:06:29 +0000] [32090] [INFO] Booting worker with pid: 32090
+[2021-11-11 05:07:27 +0000] [32084] [INFO] Handling signal: term
+[2021-11-11 05:07:27 +0000] [32087] [INFO] Worker exiting (pid: 32087)
+[2021-11-11 05:07:27 +0000] [32088] [INFO] Worker exiting (pid: 32088)
+[2021-11-11 05:07:27 +0000] [32090] [INFO] Worker exiting (pid: 32090)
+[2021-11-11 05:07:27 +0000] [32089] [INFO] Worker exiting (pid: 32089)
+[2021-11-11 05:07:27 +0000] [32084] [INFO] Shutting down: Master
+[2021-11-11 05:08:31 +0000] [1013] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:08:31 +0000] [1013] [INFO] Listening at: http://0.0.0.0:8000 (1013)
+[2021-11-11 05:08:31 +0000] [1013] [INFO] Using worker: sync
+[2021-11-11 05:08:31 +0000] [1016] [INFO] Booting worker with pid: 1016
+[2021-11-11 05:08:31 +0000] [1017] [INFO] Booting worker with pid: 1017
+[2021-11-11 05:08:31 +0000] [1018] [INFO] Booting worker with pid: 1018
+[2021-11-11 05:08:31 +0000] [1019] [INFO] Booting worker with pid: 1019
+[2021-11-11 05:09:04 +0000] [1013] [CRITICAL] WORKER TIMEOUT (pid:1019)
+[2021-11-11 05:09:04 +0000] [1019] [INFO] Worker exiting (pid: 1019)
+[2021-11-11 05:09:04 +0000] [1473] [INFO] Booting worker with pid: 1473
+[2021-11-11 05:12:16 +0000] [1013] [INFO] Handling signal: term
+[2021-11-11 05:12:16 +0000] [1017] [INFO] Worker exiting (pid: 1017)
+[2021-11-11 05:12:16 +0000] [1018] [INFO] Worker exiting (pid: 1018)
+[2021-11-11 05:12:16 +0000] [1473] [INFO] Worker exiting (pid: 1473)
+[2021-11-11 05:13:46 +0000] [4625] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:13:46 +0000] [4625] [INFO] Listening at: http://0.0.0.0:8000 (4625)
+[2021-11-11 05:13:46 +0000] [4625] [INFO] Using worker: sync
+[2021-11-11 05:13:46 +0000] [4632] [INFO] Booting worker with pid: 4632
+[2021-11-11 05:13:46 +0000] [4634] [INFO] Booting worker with pid: 4634
+[2021-11-11 05:13:46 +0000] [4636] [INFO] Booting worker with pid: 4636
+[2021-11-11 05:13:46 +0000] [4637] [INFO] Booting worker with pid: 4637
+[2021-11-11 05:14:17 +0000] [4625] [CRITICAL] WORKER TIMEOUT (pid:4632)
+[2021-11-11 05:14:17 +0000] [4632] [INFO] Worker exiting (pid: 4632)
+[2021-11-11 05:14:17 +0000] [4991] [INFO] Booting worker with pid: 4991
+[2021-11-11 05:20:35 +0000] [4991] [INFO] Worker exiting (pid: 4991)
+[2021-11-11 05:20:35 +0000] [9094] [INFO] Booting worker with pid: 9094
+[2021-11-11 05:20:45 +0000] [9094] [INFO] Worker exiting (pid: 9094)
+[2021-11-11 05:20:45 +0000] [9218] [INFO] Booting worker with pid: 9218
+[2021-11-11 05:20:52 +0000] [9218] [INFO] Worker exiting (pid: 9218)
+[2021-11-11 05:20:52 +0000] [9292] [INFO] Booting worker with pid: 9292
+[2021-11-11 05:20:57 +0000] [9292] [INFO] Worker exiting (pid: 9292)
+[2021-11-11 05:20:57 +0000] [9366] [INFO] Booting worker with pid: 9366
+[2021-11-11 05:21:03 +0000] [9366] [INFO] Worker exiting (pid: 9366)
+[2021-11-11 05:21:03 +0000] [9431] [INFO] Booting worker with pid: 9431
+[2021-11-11 05:21:09 +0000] [9431] [INFO] Worker exiting (pid: 9431)
+[2021-11-11 05:21:09 +0000] [9501] [INFO] Booting worker with pid: 9501
+[2021-11-11 05:21:15 +0000] [9501] [INFO] Worker exiting (pid: 9501)
+[2021-11-11 05:21:15 +0000] [9575] [INFO] Booting worker with pid: 9575
+[2021-11-11 05:21:22 +0000] [9575] [INFO] Worker exiting (pid: 9575)
+[2021-11-11 05:21:22 +0000] [9663] [INFO] Booting worker with pid: 9663
+[2021-11-11 05:21:36 +0000] [9663] [INFO] Worker exiting (pid: 9663)
+[2021-11-11 05:21:36 +0000] [9820] [INFO] Booting worker with pid: 9820
+[2021-11-11 05:21:44 +0000] [9820] [INFO] Worker exiting (pid: 9820)
+[2021-11-11 05:21:44 +0000] [9904] [INFO] Booting worker with pid: 9904
+[2021-11-11 05:21:54 +0000] [9904] [INFO] Worker exiting (pid: 9904)
+[2021-11-11 05:21:54 +0000] [10028] [INFO] Booting worker with pid: 10028
+[2021-11-11 05:22:10 +0000] [4625] [INFO] Handling signal: term
+[2021-11-11 05:22:10 +0000] [4636] [INFO] Worker exiting (pid: 4636)
+[2021-11-11 05:22:10 +0000] [4634] [INFO] Worker exiting (pid: 4634)
+[2021-11-11 05:22:10 +0000] [4637] [INFO] Worker exiting (pid: 4637)
+[2021-11-11 05:22:10 +0000] [10028] [INFO] Worker exiting (pid: 10028)
+[2021-11-11 05:22:10 +0000] [4625] [INFO] Shutting down: Master
+[2021-11-11 05:24:25 +0000] [11729] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:24:25 +0000] [11729] [INFO] Listening at: http://0.0.0.0:8000 (11729)
+[2021-11-11 05:24:25 +0000] [11729] [INFO] Using worker: sync
+[2021-11-11 05:24:25 +0000] [11732] [INFO] Booting worker with pid: 11732
+[2021-11-11 05:24:25 +0000] [11733] [INFO] Booting worker with pid: 11733
+[2021-11-11 05:24:25 +0000] [11734] [INFO] Booting worker with pid: 11734
+[2021-11-11 05:24:25 +0000] [11735] [INFO] Booting worker with pid: 11735
+[2021-11-11 05:24:57 +0000] [11729] [CRITICAL] WORKER TIMEOUT (pid:11732)
+[2021-11-11 05:24:57 +0000] [11732] [INFO] Worker exiting (pid: 11732)
+[2021-11-11 05:24:57 +0000] [12090] [INFO] Booting worker with pid: 12090
+[2021-11-11 05:34:57 +0000] [11729] [CRITICAL] WORKER TIMEOUT (pid:11735)
+[2021-11-11 05:34:57 +0000] [11735] [INFO] Worker exiting (pid: 11735)
+[2021-11-11 05:34:57 +0000] [18837] [INFO] Booting worker with pid: 18837
+[2021-11-11 05:37:26 +0000] [11729] [INFO] Handling signal: term
+[2021-11-11 05:37:26 +0000] [11733] [INFO] Worker exiting (pid: 11733)
+[2021-11-11 05:37:26 +0000] [11734] [INFO] Worker exiting (pid: 11734)
+[2021-11-11 05:37:26 +0000] [12090] [INFO] Worker exiting (pid: 12090)
+[2021-11-11 05:37:26 +0000] [18837] [INFO] Worker exiting (pid: 18837)
+[2021-11-11 05:37:26 +0000] [11729] [INFO] Shutting down: Master
+[2021-11-11 05:41:24 +0000] [23239] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 05:41:24 +0000] [23239] [INFO] Listening at: http://0.0.0.0:8000 (23239)
+[2021-11-11 05:41:24 +0000] [23239] [INFO] Using worker: sync
+[2021-11-11 05:41:24 +0000] [23242] [INFO] Booting worker with pid: 23242
+[2021-11-11 05:41:25 +0000] [23243] [INFO] Booting worker with pid: 23243
+[2021-11-11 05:41:25 +0000] [23244] [INFO] Booting worker with pid: 23244
+[2021-11-11 05:41:25 +0000] [23246] [INFO] Booting worker with pid: 23246
+[2021-11-11 05:41:57 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:23242)
+[2021-11-11 05:41:57 +0000] [23242] [INFO] Worker exiting (pid: 23242)
+[2021-11-11 05:41:57 +0000] [23664] [INFO] Booting worker with pid: 23664
+[2021-11-11 09:55:48 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:23243)
+[2021-11-11 09:55:48 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:23244)
+[2021-11-11 09:55:48 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:23246)
+[2021-11-11 09:55:48 +0000] [23243] [INFO] Worker exiting (pid: 23243)
+[2021-11-11 09:55:48 +0000] [23246] [INFO] Worker exiting (pid: 23246)
+[2021-11-11 09:55:48 +0000] [23244] [INFO] Worker exiting (pid: 23244)
+[2021-11-11 09:55:48 +0000] [26168] [INFO] Booting worker with pid: 26168
+[2021-11-11 09:55:48 +0000] [23239] [WARNING] Worker with pid 23243 was terminated due to signal 9
+[2021-11-11 09:55:48 +0000] [23239] [WARNING] Worker with pid 23244 was terminated due to signal 9
+[2021-11-11 09:55:48 +0000] [26169] [INFO] Booting worker with pid: 26169
+[2021-11-11 09:55:48 +0000] [26171] [INFO] Booting worker with pid: 26171
+[2021-11-11 09:55:49 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:23664)
+[2021-11-11 09:55:49 +0000] [23664] [INFO] Worker exiting (pid: 23664)
+[2021-11-11 09:55:49 +0000] [26174] [INFO] Booting worker with pid: 26174
+[2021-11-11 09:56:19 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26168)
+[2021-11-11 09:56:19 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26169)
+[2021-11-11 09:56:19 +0000] [26168] [INFO] Worker exiting (pid: 26168)
+[2021-11-11 09:56:19 +0000] [26169] [INFO] Worker exiting (pid: 26169)
+[2021-11-11 09:56:19 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26171)
+[2021-11-11 09:56:19 +0000] [26171] [INFO] Worker exiting (pid: 26171)
+[2021-11-11 09:56:20 +0000] [26177] [INFO] Booting worker with pid: 26177
+[2021-11-11 09:56:20 +0000] [23239] [WARNING] Worker with pid 26169 was terminated due to signal 9
+[2021-11-11 09:56:20 +0000] [23239] [WARNING] Worker with pid 26171 was terminated due to signal 9
+[2021-11-11 09:56:20 +0000] [26178] [INFO] Booting worker with pid: 26178
+[2021-11-11 09:56:20 +0000] [26179] [INFO] Booting worker with pid: 26179
+[2021-11-11 09:56:21 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26174)
+[2021-11-11 09:56:21 +0000] [26174] [INFO] Worker exiting (pid: 26174)
+[2021-11-11 09:56:21 +0000] [26183] [INFO] Booting worker with pid: 26183
+[2021-11-11 09:56:51 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26177)
+[2021-11-11 09:56:51 +0000] [26177] [INFO] Worker exiting (pid: 26177)
+[2021-11-11 09:56:51 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26178)
+[2021-11-11 09:56:51 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26179)
+[2021-11-11 09:56:51 +0000] [26178] [INFO] Worker exiting (pid: 26178)
+[2021-11-11 09:56:51 +0000] [26179] [INFO] Worker exiting (pid: 26179)
+[2021-11-11 09:56:51 +0000] [26185] [INFO] Booting worker with pid: 26185
+[2021-11-11 09:56:51 +0000] [23239] [WARNING] Worker with pid 26178 was terminated due to signal 9
+[2021-11-11 09:56:51 +0000] [23239] [WARNING] Worker with pid 26179 was terminated due to signal 9
+[2021-11-11 09:56:51 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26183)
+[2021-11-11 09:56:51 +0000] [26183] [INFO] Worker exiting (pid: 26183)
+[2021-11-11 09:56:51 +0000] [26186] [INFO] Booting worker with pid: 26186
+[2021-11-11 09:56:51 +0000] [26188] [INFO] Booting worker with pid: 26188
+[2021-11-11 09:56:51 +0000] [26189] [INFO] Booting worker with pid: 26189
+[2021-11-11 09:57:22 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26185)
+[2021-11-11 09:57:22 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26186)
+[2021-11-11 09:57:22 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26188)
+[2021-11-11 09:57:22 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26189)
+[2021-11-11 09:57:22 +0000] [26185] [INFO] Worker exiting (pid: 26185)
+[2021-11-11 09:57:22 +0000] [26188] [INFO] Worker exiting (pid: 26188)
+[2021-11-11 09:57:22 +0000] [26186] [INFO] Worker exiting (pid: 26186)
+[2021-11-11 09:57:22 +0000] [26189] [INFO] Worker exiting (pid: 26189)
+[2021-11-11 09:57:22 +0000] [23239] [WARNING] Worker with pid 26188 was terminated due to signal 9
+[2021-11-11 09:57:22 +0000] [26193] [INFO] Booting worker with pid: 26193
+[2021-11-11 09:57:22 +0000] [23239] [WARNING] Worker with pid 26189 was terminated due to signal 9
+[2021-11-11 09:57:22 +0000] [26194] [INFO] Booting worker with pid: 26194
+[2021-11-11 09:57:23 +0000] [26195] [INFO] Booting worker with pid: 26195
+[2021-11-11 09:57:23 +0000] [26196] [INFO] Booting worker with pid: 26196
+[2021-11-11 09:57:54 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26193)
+[2021-11-11 09:57:54 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26194)
+[2021-11-11 09:57:54 +0000] [26193] [INFO] Worker exiting (pid: 26193)
+[2021-11-11 09:57:54 +0000] [26194] [INFO] Worker exiting (pid: 26194)
+[2021-11-11 09:57:54 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26195)
+[2021-11-11 09:57:54 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26196)
+[2021-11-11 09:57:54 +0000] [26196] [INFO] Worker exiting (pid: 26196)
+[2021-11-11 09:57:54 +0000] [26195] [INFO] Worker exiting (pid: 26195)
+[2021-11-11 09:57:54 +0000] [23239] [WARNING] Worker with pid 26196 was terminated due to signal 9
+[2021-11-11 09:57:54 +0000] [26201] [INFO] Booting worker with pid: 26201
+[2021-11-11 09:57:54 +0000] [26202] [INFO] Booting worker with pid: 26202
+[2021-11-11 09:57:54 +0000] [26204] [INFO] Booting worker with pid: 26204
+[2021-11-11 09:57:54 +0000] [26205] [INFO] Booting worker with pid: 26205
+[2021-11-11 09:58:25 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26201)
+[2021-11-11 09:58:25 +0000] [26201] [INFO] Worker exiting (pid: 26201)
+[2021-11-11 09:58:25 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26202)
+[2021-11-11 09:58:25 +0000] [26202] [INFO] Worker exiting (pid: 26202)
+[2021-11-11 09:58:25 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26204)
+[2021-11-11 09:58:25 +0000] [26204] [INFO] Worker exiting (pid: 26204)
+[2021-11-11 09:58:25 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26205)
+[2021-11-11 09:58:25 +0000] [26205] [INFO] Worker exiting (pid: 26205)
+[2021-11-11 09:58:26 +0000] [26209] [INFO] Booting worker with pid: 26209
+[2021-11-11 09:58:26 +0000] [23239] [WARNING] Worker with pid 26202 was terminated due to signal 9
+[2021-11-11 09:58:26 +0000] [23239] [WARNING] Worker with pid 26205 was terminated due to signal 9
+[2021-11-11 09:58:26 +0000] [23239] [WARNING] Worker with pid 26204 was terminated due to signal 9
+[2021-11-11 09:58:26 +0000] [26210] [INFO] Booting worker with pid: 26210
+[2021-11-11 09:58:26 +0000] [26211] [INFO] Booting worker with pid: 26211
+[2021-11-11 09:58:26 +0000] [26213] [INFO] Booting worker with pid: 26213
+[2021-11-11 09:58:57 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26209)
+[2021-11-11 09:58:57 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26210)
+[2021-11-11 09:58:57 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26211)
+[2021-11-11 09:58:57 +0000] [26209] [INFO] Worker exiting (pid: 26209)
+[2021-11-11 09:58:57 +0000] [26211] [INFO] Worker exiting (pid: 26211)
+[2021-11-11 09:58:57 +0000] [26210] [INFO] Worker exiting (pid: 26210)
+[2021-11-11 09:58:57 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26213)
+[2021-11-11 09:58:57 +0000] [26213] [INFO] Worker exiting (pid: 26213)
+[2021-11-11 09:58:57 +0000] [26217] [INFO] Booting worker with pid: 26217
+[2021-11-11 09:58:57 +0000] [23239] [WARNING] Worker with pid 26213 was terminated due to signal 9
+[2021-11-11 09:58:57 +0000] [23239] [WARNING] Worker with pid 26210 was terminated due to signal 9
+[2021-11-11 09:58:57 +0000] [26218] [INFO] Booting worker with pid: 26218
+[2021-11-11 09:58:57 +0000] [26219] [INFO] Booting worker with pid: 26219
+[2021-11-11 09:58:57 +0000] [26220] [INFO] Booting worker with pid: 26220
+[2021-11-11 09:59:28 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26217)
+[2021-11-11 09:59:28 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26218)
+[2021-11-11 09:59:28 +0000] [26217] [INFO] Worker exiting (pid: 26217)
+[2021-11-11 09:59:28 +0000] [26218] [INFO] Worker exiting (pid: 26218)
+[2021-11-11 09:59:28 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26219)
+[2021-11-11 09:59:28 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26220)
+[2021-11-11 09:59:28 +0000] [26220] [INFO] Worker exiting (pid: 26220)
+[2021-11-11 09:59:28 +0000] [26219] [INFO] Worker exiting (pid: 26219)
+[2021-11-11 09:59:29 +0000] [26225] [INFO] Booting worker with pid: 26225
+[2021-11-11 09:59:29 +0000] [26226] [INFO] Booting worker with pid: 26226
+[2021-11-11 09:59:29 +0000] [26227] [INFO] Booting worker with pid: 26227
+[2021-11-11 09:59:29 +0000] [26228] [INFO] Booting worker with pid: 26228
+[2021-11-11 10:00:00 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26225)
+[2021-11-11 10:00:00 +0000] [26225] [INFO] Worker exiting (pid: 26225)
+[2021-11-11 10:00:00 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26226)
+[2021-11-11 10:00:00 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26227)
+[2021-11-11 10:00:00 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26228)
+[2021-11-11 10:00:00 +0000] [26226] [INFO] Worker exiting (pid: 26226)
+[2021-11-11 10:00:00 +0000] [26228] [INFO] Worker exiting (pid: 26228)
+[2021-11-11 10:00:00 +0000] [26227] [INFO] Worker exiting (pid: 26227)
+[2021-11-11 10:00:00 +0000] [26233] [INFO] Booting worker with pid: 26233
+[2021-11-11 10:00:00 +0000] [23239] [WARNING] Worker with pid 26227 was terminated due to signal 9
+[2021-11-11 10:00:00 +0000] [23239] [WARNING] Worker with pid 26226 was terminated due to signal 9
+[2021-11-11 10:00:00 +0000] [26234] [INFO] Booting worker with pid: 26234
+[2021-11-11 10:00:00 +0000] [26236] [INFO] Booting worker with pid: 26236
+[2021-11-11 10:00:00 +0000] [26237] [INFO] Booting worker with pid: 26237
+[2021-11-11 10:00:31 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26233)
+[2021-11-11 10:00:31 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26234)
+[2021-11-11 10:00:31 +0000] [26234] [INFO] Worker exiting (pid: 26234)
+[2021-11-11 10:00:31 +0000] [26233] [INFO] Worker exiting (pid: 26233)
+[2021-11-11 10:00:31 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26236)
+[2021-11-11 10:00:31 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26237)
+[2021-11-11 10:00:31 +0000] [26236] [INFO] Worker exiting (pid: 26236)
+[2021-11-11 10:00:31 +0000] [26237] [INFO] Worker exiting (pid: 26237)
+[2021-11-11 10:00:31 +0000] [26241] [INFO] Booting worker with pid: 26241
+[2021-11-11 10:00:31 +0000] [23239] [WARNING] Worker with pid 26233 was terminated due to signal 9
+[2021-11-11 10:00:31 +0000] [23239] [WARNING] Worker with pid 26237 was terminated due to signal 9
+[2021-11-11 10:00:31 +0000] [23239] [WARNING] Worker with pid 26236 was terminated due to signal 9
+[2021-11-11 10:00:31 +0000] [26242] [INFO] Booting worker with pid: 26242
+[2021-11-11 10:00:31 +0000] [26243] [INFO] Booting worker with pid: 26243
+[2021-11-11 10:00:31 +0000] [26244] [INFO] Booting worker with pid: 26244
+[2021-11-11 10:01:03 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26241)
+[2021-11-11 10:01:03 +0000] [26241] [INFO] Worker exiting (pid: 26241)
+[2021-11-11 10:01:03 +0000] [26249] [INFO] Booting worker with pid: 26249
+[2021-11-11 11:04:40 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26242)
+[2021-11-11 11:04:40 +0000] [26242] [INFO] Worker exiting (pid: 26242)
+[2021-11-11 11:04:40 +0000] [12671] [INFO] Booting worker with pid: 12671
+[2021-11-11 11:44:52 +0000] [23239] [CRITICAL] WORKER TIMEOUT (pid:26249)
+[2021-11-11 11:44:52 +0000] [26249] [INFO] Worker exiting (pid: 26249)
+[2021-11-11 11:44:52 +0000] [9756] [INFO] Booting worker with pid: 9756
+[2021-11-11 11:48:15 +0000] [23239] [INFO] Handling signal: term
+[2021-11-11 11:48:15 +0000] [12671] [INFO] Worker exiting (pid: 12671)
+[2021-11-11 11:48:15 +0000] [26243] [INFO] Worker exiting (pid: 26243)
+[2021-11-11 11:48:15 +0000] [9756] [INFO] Worker exiting (pid: 9756)
+[2021-11-11 11:48:15 +0000] [26244] [INFO] Worker exiting (pid: 26244)
+[2021-11-11 11:48:16 +0000] [23239] [INFO] Shutting down: Master
+[2021-11-11 19:49:57 +0800] [16581] [INFO] Starting gunicorn 20.1.0
+[2021-11-11 19:49:57 +0800] [16581] [INFO] Listening at: http://0.0.0.0:8000 (16581)
+[2021-11-11 19:49:57 +0800] [16581] [INFO] Using worker: sync
+[2021-11-11 19:49:57 +0800] [16584] [INFO] Booting worker with pid: 16584
+[2021-11-11 19:49:57 +0800] [16585] [INFO] Booting worker with pid: 16585
+[2021-11-11 19:49:57 +0800] [16586] [INFO] Booting worker with pid: 16586
+[2021-11-11 19:49:57 +0800] [16587] [INFO] Booting worker with pid: 16587
+[2021-11-11 19:50:40 +0800] [16581] [CRITICAL] WORKER TIMEOUT (pid:16587)
+[2021-11-11 19:50:40 +0800] [16587] [INFO] Worker exiting (pid: 16587)
+[2021-11-11 19:50:40 +0800] [17618] [INFO] Booting worker with pid: 17618
+[2021-11-11 20:43:32 +0800] [16581] [CRITICAL] WORKER TIMEOUT (pid:16584)
+[2021-11-11 20:43:32 +0800] [16584] [INFO] Worker exiting (pid: 16584)
+[2021-11-11 20:43:32 +0800] [27031] [INFO] Booting worker with pid: 27031
